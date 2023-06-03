@@ -39,5 +39,7 @@
 # 🗣 > Acá observamos de forma gráfica el flujo de nuestro progreso como equipo.
 
 [![10.png](https://i.postimg.cc/J473Gd05/10.png)](https://postimg.cc/JtgHFxbs)
+# 🗣 > **`NUESTRO RECORRIDO COMO EQUIPO`**
+[![12.png](https://i.postimg.cc/cLgrhp5B/12.png)](https://postimg.cc/pmvWX6vm)
 
 [![11.png](https://i.postimg.cc/JhDYp3yv/11.png)](https://postimg.cc/nsx1zDGG)
