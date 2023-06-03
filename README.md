@@ -1,4 +1,4 @@
-[![](HOSPITAL.PNG)]()
+[![](HOSPITAL*.png)]()
 # **Proyecto-Hospital** 
 
 # **EPICA**
