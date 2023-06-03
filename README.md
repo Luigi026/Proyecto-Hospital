@@ -1,46 +1,43 @@
-[![](HOSPITAL*.png)]()
-# **Proyecto-Hospital** 
+# **`Proyecto-Hospital`**
+[![HOSPITAL.png](https://i.postimg.cc/1zjxDMj2/HOSPITAL.png)](https://postimg.cc/JyZdL3m5) 
 
-# **EPICA**
+# **`EPICA`** 
 
-+*Se requiere un sistema de gestión hospitalaria que facilite el registro de pacientes, incluyendo su nombre, edad y número de asociado de obra social. También se requiere llevar un registro de los médicos, incluyendo su nombre completo y especialidad. Además, el sistema debe permitir la asignación de médicos a los distintos turnos, especificando el horario de servicio correspondiente a cada turno.*
-
-  
-
-# Editor.md
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+### *Se requiere un sistema de gestión hospitalaria que facilite el registro de pacientes, incluyendo su nombre, edad y número de asociado de obra social. También se requiere llevar un registro de los médicos, incluyendo su nombre completo y especialidad. Además, el sistema debe permitir la asignación de médicos a los distintos turnos, especificando el horario de servicio correspondiente a cada turno.*
 
 
-**Table of Contents**
+# **`HISTORIAS DE USUARIO`**
+## 🗣 > Como equipo se me asigno la tarea de realizar las Historias de Usuario, dividiendola asi en 3 tablas (Pacientes,Medicos,Turnos), junto con sus criterios de aceptacion.
 
-[TOCM]
+[![1.png](https://i.postimg.cc/cHKQJ72d/1.png)](https://postimg.cc/G8CB7Dbf)
 
-[TOC]
+# **`DIAGRAMA ERD`**
+## 🗣 > Luego la compañera GILLERMINA se encargo de realizar el Diagrama ERD en base a las 3 tablas (Pacientes, Medicos, Turnos) vinculandolas con sus respectivos datos, keys, y criterios de aceptacion con lenguaje SQL.
 
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
-#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-##Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-###Heading 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-####Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link") Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#####Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-######Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+[![2.png](https://i.postimg.cc/PqLFZD85/2.png)](https://postimg.cc/v1szwczJ)
 
-##Headers (Underline)
+# **`MATRIZ DE PRUEBAS`**
+## 🗣 > Por otro lado el compañero GERMAN se encargo de crear la matriz para luego analizarla entre todos y empezar con los casos de prueba.
+[![1.png](https://i.postimg.cc/D0dBPdg1/1.png)](https://postimg.cc/q6qskKW7)
 
-H1 Header (Underline)
-=============
+# **`BASE DE DATOS`**
+## **`TABLAS`**
+## 🗣 > Mientras que a el compañero LEONEL se le asigno la tarea en base de datos creando, insertando y uniendo la informacion con leguaje SQL las tablas requeridas.
 
-H2 Header (Underline)
--------------
+[![4.png](https://i.postimg.cc/HWN6bzgD/4.png)](https://postimg.cc/s1pPrpxw)
+[![5.png](https://i.postimg.cc/Vs42bn7X/5.png)](https://postimg.cc/8sJZ2JgC)
+[![6.png](https://i.postimg.cc/769t0rNq/6.png)](https://postimg.cc/njs1f55W)
+[![Captura-de-pantalla-81.png](https://i.postimg.cc/BZycyvbd/Captura-de-pantalla-81.png)](https://postimg.cc/Rq7HJ4cR)
 
-###Characters
-                
-----
+# **`PRUEBAS EN JIRA CON ZEPHIR`**
+# 🗣 > Luego como equipo pusimos a prueba un total de 7 casos de prueba teniendo exito en todas, sin ningun tipo de bug.
+
+[![9.png](https://i.postimg.cc/28gqrbff/9.png)](https://postimg.cc/1fcRKztW)
+
+# **`DIAGRAMA DE FLUJO`**
+
+# 🗣 > Acá observamos de forma gráfica el flujo de nuestro progreso como equipo.
+
+[![10.png](https://i.postimg.cc/J473Gd05/10.png)](https://postimg.cc/JtgHFxbs)
+
+[![11.png](https://i.postimg.cc/JhDYp3yv/11.png)](https://postimg.cc/nsx1zDGG)
